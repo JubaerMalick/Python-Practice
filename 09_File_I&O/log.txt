@@ -1,0 +1,12 @@
+ Java 
+ JavaScript 
+ React Django 
+ TailwindCSS 
+ NextJs 
+ MySQL 
+ Python 
+ C C++ C# 
+ Swift 
+ Go 
+ Rust 
+ PostgreSQL
